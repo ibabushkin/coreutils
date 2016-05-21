@@ -110,6 +110,7 @@ UNIX_PROGS := \
   mv \
   nice \
   nohup \
+  pathchk \
   stdbuf \
   timeout \
   touch \
@@ -153,6 +154,7 @@ TEST_PROGS  := \
 	nl \
 	od \
 	paste \
+	pathchk \
 	printf \
 	ptx \
 	pwd \
